@@ -27,3 +27,37 @@ This time I tried it with the new chart that included the 'if' option.
 I managed to get a nice cup of tea :) 
 
 I ended up making a nice cup of english breakfast in my cat cup with brown sugar!
+
+
+
+#### Then things started to get really tricky...
+
+We started to move on to something called processing... this was looking more at digital coding
+
+#### IT WAS REALLY HARD
+
+To say I was a little confused would be a great understatement.
+
+Nevertheless, I had a go at creating a little character of my own. 
+
+### This is my character
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%202/Screen%20Shot%202020-08-04%20at%202.02.22%20pm.png>
+
+Cute isn't it?
+
+I had a go at remixing another classmate's character by making it interactive! 
+
+### This is the original character
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%202/Screen%20Shot%202020-08-04%20at%205.29.18%20pm.png>
+
+
+### This is my attempt of a remix
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%202/Screen%20Shot%202020-08-04%20at%205.32.57%20pm.png>
+
+Depending on which way you move your mouse the background and facial features move!
+
+
+
