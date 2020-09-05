@@ -20,7 +20,9 @@ My group chose an old Sonic game, I've never played and had no idea how it worke
 
 ### This is what is looked like:
 
-*insert photo*
+<img src=Screen Shot 2020-09-05 at 10.17.17 pm>
+
+<img src=Screen Shot 2020-09-05 at 10.12.33 pm>
 
 In this case, it was the background that was moving (not the foreground). 
 
