@@ -29,7 +29,7 @@ I found it super interesting how they were able to take something like sound, so
 
 ### This is what the original photo looked like:
 
-<img src=Screen Shot 2020-08-14 at 10.15.55 am.png>
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%204/Screen%20Shot%202020-08-14%20at%2010.15.55%20am.png>
 
 I will say this one was a little trickier than some of the other tutorials we learnt, but I found it super fun that we were incoporating the idea of colour tracking in the sketch. Perhaps this is something I could explore further?
 
@@ -43,9 +43,9 @@ We also learnt how to upload our own images, so I used a photo of my friend Jinn
 
 ### Here are some examples of what I did with that image:
 
-<img src=Screen Shot 2020-09-05 at 10.18.25 pm.png>
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%204/Screen%20Shot%202020-09-05%20at%2010.18.25%20pm.png>
 
-<img src=Screen Shot 2020-09-05 at 10.18.35 pm.png>
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%204/Screen%20Shot%202020-09-05%20at%2010.18.35%20pm.png>
 
 We also did a processing sketch that allowed us to text. Of course I, being the annoying student that I am, decided to use comic sans. 
 
@@ -53,9 +53,9 @@ I'm glad no one else saw my sketch because I probably would have been kicked out
 
 ### Here is what it looked like:
 
-<img src=Screen Shot 2020-09-05 at 10.18.15 pm.png>
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%204/Screen%20Shot%202020-09-05%20at%2010.18.15%20pm.png>
 
-<img src=Screen Shot 2020-09-05 at 10.18.05 pm.png>
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%204/Screen%20Shot%202020-09-05%20at%2010.18.05%20pm.png>
 
 ### For our break out group disussion
 
