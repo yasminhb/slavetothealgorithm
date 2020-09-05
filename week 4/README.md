@@ -27,7 +27,7 @@ I found it super interesting how they were able to take something like sound, so
 
 #### We also had another in-class processing activity.
 
-### This is what it looked like:
+### This is what the original photo looked like:
 
 *insert photo*
 
