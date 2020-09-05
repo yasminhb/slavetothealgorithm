@@ -53,7 +53,9 @@ I'm glad no one else saw my sketch because I probably would have been kicked out
 
 ### Here is what it looked like:
 
-*insert photo*
+<img src=Screen Shot 2020-09-05 at 10.18.15 pm.png>
+
+<img src=Screen Shot 2020-09-05 at 10.18.05 pm.png>
 
 ### For our break out group disussion
 
