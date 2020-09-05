@@ -29,7 +29,7 @@ I found it super interesting how they were able to take something like sound, so
 
 ### This is what the original photo looked like:
 
-*insert photo*
+<img src=Screen Shot 2020-08-14 at 10.15.55 am.png>
 
 I will say this one was a little trickier than some of the other tutorials we learnt, but I found it super fun that we were incoporating the idea of colour tracking in the sketch. Perhaps this is something I could explore further?
 
@@ -43,7 +43,9 @@ We also learnt how to upload our own images, so I used a photo of my friend Jinn
 
 ### Here are some examples of what I did with that image:
 
-*insert photo*
+<img src=Screen Shot 2020-09-05 at 10.18.25 pm.png>
+
+<img src=Screen Shot 2020-09-05 at 10.18.35 pm.png>
 
 We also did a processing sketch that allowed us to text. Of course I, being the annoying student that I am, decided to use comic sans. 
 
