@@ -20,9 +20,9 @@ My group chose an old Sonic game, I've never played and had no idea how it worke
 
 ### This is what is looked like:
 
-<img src=Screen Shot 2020-09-05 at 10.17.17 pm>
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%206/Screen%20Shot%202020-09-05%20at%2010.12.33%20pm.png>
 
-<img src=Screen Shot 2020-09-05 at 10.12.33 pm>
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%206/Screen%20Shot%202020-09-05%20at%2010.17.17%20pm.png>
 
 In this case, it was the background that was moving (not the foreground). 
 
@@ -44,6 +44,8 @@ However, I was able to find something that was a small file size and learn how t
 
 ### This is what it looked like:
 
-*insert photo*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%206/Screen%20Shot%202020-09-05%20at%2010.33.59%20pm.png>
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%206/Screen%20Shot%202020-09-05%20at%2010.34.05%20pm.png>
 
 
