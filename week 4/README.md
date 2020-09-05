@@ -23,9 +23,7 @@ I found it super interesting how they were able to take something like sound, so
 
 #### This is what it looked like:
 
-*Insert photo*
-
-*Insert photo*
+<img src=unnamed.jgp>
 
 #### We also had another in-class processing activity.
 
