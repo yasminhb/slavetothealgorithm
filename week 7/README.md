@@ -76,7 +76,7 @@ In real life, if plants get *too* much sun they start to dry up and die. Realist
 
 If you smile too much and appear happy, the sun will appear and the digital garden will dry up and die. If you appear sad, it will start to rain and the garden will start to flourish.
 
-### Making a pseudocode
+## Making a pseudocode
 
 To make my idea a little more clear, I had a go at writing a pseudocode
 
