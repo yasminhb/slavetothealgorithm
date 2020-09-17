@@ -24,11 +24,11 @@ After a little bit of research I shortly discovered that VR headsets are hundred
 
 I then remembered when I was in highschool and was looking at different university open days, I saw multiple people handing out these cardboard VR sets that you could insert your phone into. 
 
-#### Sort of like this:
+#### Sort of like this (google cardboard):
 
-*INSERT PHOTO*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%207/Google-Cardboard.jpg>
 
-This served as a cheap and way more accessible alternative to buying a professional headset. This way it meant that more people would be able to participate in the idea.
+This served as a cheap (or free) and way more accessible alternative to buying a professional headset. This way it meant that more people would be able to participate in the idea.
 
 However, I realised that it would be difficult to incoporate face tracking into the algorithm and would probably need to rethink how I would be incorporating emotions into the idea.
 
@@ -44,9 +44,13 @@ After a while we managed to find some that worked in processing!
 
 #### Here are few cool examples of face tracking and emotion tracking in processing and p5.js
 
-*INSERT PHOTO AND LINK*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%207/Screen%20Shot%202020-09-17%20at%209.23.13%20pm.png>
 
-*INSERT PHOTO AND LINK*
+*Available to play around with at: https://editor.p5js.org/sl7211/sketches/ry8Q4eqCX
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%207/Screen%20Shot%202020-09-17%20at%209.40.42%20pm.png>
+
+*Available to play around with at:https://www.openprocessing.org/sketch/942983
 
 This gave me some piece of mind that it was actually possible to do this in processing, and learning a whole new code language wasn't needed.
 
@@ -78,7 +82,7 @@ To make my idea a little more clear, I had a go at writing a pseudocode
 
 #### Here's what it looks like:
 
-*INSERT PHOTO*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%207/Screen%20Shot%202020-09-17%20at%2010.06.20%20pm.png>
 
 I'm not sure if it's correct, but I can always change it up as I go along with my project.
 
