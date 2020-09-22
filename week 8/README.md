@@ -22,4 +22,4 @@ My only concern is that the animation might not be that smooth if I do it this w
 
 #### This is an example of what the 'code' blocks looked like:
 
-*INSERT PHOTO*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%208/Screen%20Shot%202020-09-22%20at%202.15.00%20pm.png>
