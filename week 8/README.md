@@ -8,7 +8,8 @@ Sprites are commonly used for video game animations, and are commonly used for c
 
 #### Here is an example of sprites frames:
 
-*INSERT PHOTO*
+Image Credit: https://godotengine.org/qa/19004/create-sprite-animation-from-single-image
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%208/spritesheet-demo.png>
 
 I came across a block based visual programming language called 'Scratch', which uses sprite characters in order to create interactive animations.
 
