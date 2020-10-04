@@ -13,22 +13,22 @@ After playing around with p5 play I found out that they have an easy animation f
 ### These are the backgrounds I created!
 
 #### Happy
-*INSERT PHOTOS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/happysky.jpg>
 
 #### Sad
-*INSERT PHOTOS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/sadsky.jpg>
 
 #### Angry
-*INSERT PHOTOS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/angrysky.jpg>
 
 #### Surprised
-*INSERT PHOTOS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/surprisedsky.jpg>
 
 #### Neutral
-*INSERT PHOTOS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/neutralsky.jpg>
 
 #### Disgusted
-*INSERT PHOTOS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/disgustedsky.jpg>
 
 I got the animation to work in p5 play but it turned out like this:
 
@@ -42,22 +42,22 @@ This means I'll have to go and resize all of the images separately (which will t
 ### These are the flower animations I made:
 
 #### Happy
-*INSERT PHOTOS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/Untitled_Artwork%205.gif>
 
 #### Sad
-*INSERT PHOTOS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/Untitled_Artwork%204.gif>
 
 #### Angry
-*INSERT PHOTOS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/Untitled_Artwork%2017.gif>
 
 #### Surprised
-*INSERT PHOTOS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/Untitled_Artwork%207.gif>
 
 #### Neutral
-*INSERT PHOTOS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/Untitled_Artwork%209.gif>
 
 #### Disgusted
-*INSERT PHOTOS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/Untitled_Artwork%208.gif>
 
 I also need to work on how to combine the facial tracking code with the animation sketch that I made. 
 
