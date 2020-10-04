@@ -24,3 +24,56 @@ My only concern is that the animation might not be that smooth if I do it this w
 #### This is an example of what the 'code' blocks looked like:
 
 <img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%208/Screen%20Shot%202020-09-22%20at%202.15.00%20pm.png>
+
+
+#### I managed to find a few sketches that showed a smooth background transition (although only one is done using javascript)!!
+
+#### Here's an example of the one that uses processing:
+
+*INSERT IMAGE*
+
+You can find the sketch here: *INSERT LINK*
+
+Here is the other sketch that is similar but uses javascript: *INSERT LINK*
+
+### Working on Visuals
+
+After looking at my pseudocode, I decided to also try making some sketches for what the actual visuals could be.
+
+It's better than I plan these out before so that the backgrounds and flower animations don't seem so 'random'.
+
+#### Here are a few sketches I made for ideas:
+
+*INSERT IMAGES*
+
+### Successful Face Tracking & Emotion Detection!!!
+
+After WEEKS of trying to find a code/sketch that ACTUALLY worked for facial tracking and emotion detecting, I finally got one of the codes to work!!
+
+To be honest, I was starting to get immensely stressed because this was the first function in my pseudocode, and my entire project depended on this function working. I had spent hours and hours trying to get various codes to work and I was starting to lose hope.
+
+After downloading an application called Visual Studio Code, and using my terminal (which was super tricky but made me feel really cool) I managed to find a code that successfully detected emotions accurately. Only two of the sketches I found worked (one was in processing so I couldn't use it) but it failed to accurately detect my facial expressions (it said I was angry when I was smiling). 
+
+#### Here are some examples of me trying out this new code:
+
+*INSERT IMAGES*
+
+The code I used was created by ______
+via:
+
+As you can see, the facial tracking isn't completely accurate??
+
+HOWEVER,
+
+The emotion is detected correctly!! That's the most important part as that's the data I'll use to input into the other functions. 
+Especially since the user won't be able to see their face anyway!
+
+### Next Steps
+
+Now I just have to figure out how to actually animate the garden in javascript. I also need to figure out how to import and animate the sprites.
+This code that I used also only has 6 emotions, so I'll need to narrow done my pseudocode a little bit. 
+
+
+
+
+
