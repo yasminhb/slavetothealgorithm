@@ -73,7 +73,17 @@ Especially since the user won't be able to see their face anyway!
 Now I just have to figure out how to actually animate the garden in javascript. I also need to figure out how to import and animate the sprites.
 This code that I used also only has 6 emotions, so I'll need to narrow done my pseudocode a little bit. 
 
+### Class activity
 
+This week we were working with speech recognition!!
+
+#### Here are some screenshots from the class:
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%208/Screen%20Shot%202020-10-04%20at%2011.42.00%20pm.png>
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%208/Screen%20Shot%202020-10-04%20at%2011.41.42%20pm.png>
+
+Something that I thought was particularly cool was when Karen would say the word 'code' and when the word 'code' was said and/or detected, it would display the word in red colour rather than white. I especially loved this and it showed how detailed you could get with your projects as long as you know how to code it. 
 
 
 
