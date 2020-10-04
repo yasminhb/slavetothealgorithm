@@ -30,11 +30,11 @@ My only concern is that the animation might not be that smooth if I do it this w
 
 #### Here's an example of the one that uses processing:
 
-*INSERT IMAGE*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%208/ezgif-3-8e2efd519b13.gif>
 
-You can find the sketch here: *INSERT LINK*
+You can find the sketch here: https://www.openprocessing.org/sketch/945135
 
-Here is the other sketch that is similar but uses javascript: *INSERT LINK*
+Here is the other sketch that is similar but uses javascript: https://www.openprocessing.org/sketch/526305
 
 ### Working on Visuals
 
@@ -42,9 +42,9 @@ After looking at my pseudocode, I decided to also try making some sketches for w
 
 It's better than I plan these out before so that the backgrounds and flower animations don't seem so 'random'.
 
-#### Here are a few sketches I made for ideas:
+#### Here are a few sketches I made for the visuals:
 
-*INSERT IMAGES*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%208/Screen%20Shot%202020-10-04%20at%2011.38.37%20pm.png>
 
 ### Successful Face Tracking & Emotion Detection!!!
 
@@ -54,12 +54,12 @@ To be honest, I was starting to get immensely stressed because this was the firs
 
 After downloading an application called Visual Studio Code, and using my terminal (which was super tricky but made me feel really cool) I managed to find a code that successfully detected emotions accurately. Only two of the sketches I found worked (one was in processing so I couldn't use it) but it failed to accurately detect my facial expressions (it said I was angry when I was smiling). 
 
-#### Here are some examples of me trying out this new code:
+#### Here is me trying out this new code:
 
-*INSERT IMAGES*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%208/ezgif-7-b74536f28818.gif>
 
-The code I used was created by ______
-via:
+Facial Detection Code by WebDevSimplified
+Via: https://www.youtube.com/watch?v=CVClHLwv-4I
 
 As you can see, the facial tracking isn't completely accurate??
 
