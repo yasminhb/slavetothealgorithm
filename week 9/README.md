@@ -31,8 +31,8 @@ After playing around with p5 play I found out that they have an easy animation f
 <img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/disgustedsky.jpg>
 
 I got the animation to work in p5 play but it turned out like this:
-
-*INSERT GIF* 
+>
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/ezgif-7-28577bd79fd0.gif>
 
 I just need to figure out how to adjust the frame rate which shouldn't be too hard. 
 
@@ -63,6 +63,16 @@ I also need to work on how to combine the facial tracking code with the animatio
 
 This will be really tricky, and if I'm being honest I don't think I'll be able to get it done by the deadline. 
 Even so, I have a clear idea and I'm happy with how my project is progressing (even if I don't finish on time).
+
+### Class Activity
+
+This week we briefly played around with type and speech recognition again and had fun with how it was displayed on screen!
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/Screen%20Shot%202020-10-04%20at%2011.43.12%20pm.png>
+
+We also explored using two canvases! This part in particular was actually really helpful because I have been working with two different sketches with one index, and it does get kind of confusing. As of yet, I'm not sure how to combine them completely without breaking the code (as the two codes use different libraries and are completely different from each other).
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%209/Screen%20Shot%202020-10-04%20at%2011.43.25%20pm.png>
 
 
 
