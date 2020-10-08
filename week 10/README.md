@@ -4,7 +4,7 @@ Last week I had drawn up all of my backgrounds and animations. This weeks challe
 
 #### This is what the animations and backgrounds look like when put together:
 
-*INSERT IMAGE*
+*INSERT GIFS*
 
 ### UPON FURTHER INSPECTION I DISCOVERED SOMETHING...
 
@@ -65,7 +65,7 @@ Nevertheless, this was a...
 
 #### I had another go with all of the images this time and this is what I got:
 
-*INSERT GIF*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2010/ezgif-7-a1aac17be949.gif>
 
 I successfully managed to connect the two codes!!
 
@@ -79,7 +79,7 @@ Karen did mention that she wanted the sketches to be windowWidth and windowHeigh
 
 #### After trying the scale() function this is what happened:
 
-*INSERT GIF*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2010/ezgif-7-d4eb679c64a0.gif>
 
 As my facial expression was contiously changing and the screen was fluxuating so often, everytime it would draw a new screen (which was every few seconds) it would scale the entire screen smaller (including other screens that were different emotions). I'm not sure I'll be able to use windowWidth, and windowHeight as I've tried a few different things but it doesn't seem too animation friendly. I'll definitely try to research this topic a little bit more. 
 
@@ -90,7 +90,7 @@ I downloaded a few different sounds (mostly nature sounds like thunder and rain)
 
 #### A common mistake I made with the sounds was forgetting to folder it was in
 
-*INSERT IMAGE*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2010/Screen%20Shot%202020-10-08%20at%205.06.56%20pm.png>
 
 I made this mistake a lot with the animations and wasn't sure why I didn't remember to do it this time, but really confused as to why none of the sounds were loading. At first I thought it was the file size until my friend pointed out my mistake.
 
