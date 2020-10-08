@@ -32,7 +32,78 @@ Thankfully I had a quick sketch from a few weeks back for what I would have done
 
 *INSERT IMAGE*
 
-### now...onto the code portion
+### WORKING ON THE CODE
+
+I knew combining the two .js files would be super tricky, so I looked a little closer at the code.
+
+I managed to create values like this:
+
+*INSERT IMAGE*
+
+When I looked at the console I realised that the expressions data came out as numbers, with the highest number being the emotion that was detected and displayed on the screen. I then realised that I had to somehow tell the code to take the biggest number from the results and use the biggest number as an input for the next function (rather than taking all data and displaying multiple unwanted images on screen). Karen suggested I look into the sort() function. The sort() function kind of confused me but I realised it was basically just creating an array[] of objects and so I did some further research. 
+
+#### By creating values and researching arrays and objects, I managed to come up with this in the console:
+
+*INSERT IMAGE*
+
+Minh and I got down to business and starting researching 'if' and 'else' functions. 
+We spent HOURS trying to get our 'if' and 'else' functions to work but it just wouldn't! We also didn't know why it wasn't working as we had seemingly done everything right. 
+
+#### This is what we came up with:
+
+*INSERT IMAGE*
+
+As a test, I tried to make the word 'happy' appear in the console, otherwise it would say 'not happy'. 
+
+I managed to get the word 'happy' appear in the console, but it would appear for every emotion and the 'not happy' never appeared. 
+
+We were both honestly SO confused and decided to make a meeting with Karen. After about 5 seconds Karen noticed I was missing a double equals sign (I had '=' instead of '=='). I added it and it WORKED. I was so happy but I felt SO DUMB AT THE SAME TIME HAHA. 
+
+Nevertheless, this was a...
+
+### BREAKTHROUGH
+
+#### I had another go with all of the images this time and this is what I got:
+
+*INSERT GIF*
+
+I successfully managed to connect the two codes!!
+
+I was trying to put my facial tracking code into my animation code, but it kept breaking. It finally worked when I put the animnations into the facial tracking code and did it the other way around. 
+
+My next big challenge was hiding the camera so the viewer can't see their face and focuses on the screen. The animations were also on the side of the screen and you had to scroll over to access it, which was actually quite annoying and made the sketch fairly confusing. The two canvas' were actually kind of tricky to navigate, and I couldn't quite figure out where the canvas for the video was in the code. I finally found that the perimeters were declared in the index.html rather than the .js files. 
+
+I tried to hide the camera view entirely but it broke the code as it needs to recognise the camera to create data. I decided to just make the camera view so small that it basically seems invisible and that seemed to work and I had fixed the canvas issue.
+
+Karen did mention that she wanted the sketches to be windowWidth and windowHeight rather than a fixed size, this way it would be viewed on all screens and devices. I had experimented with resizing animations a couple weeks ago but found that I couldn't resize animations without breaking them. She then suggested that I use the scale() function. 
+
+#### After trying the scale() function this is what happened:
+
+*INSERT GIF*
+
+As my facial expression was contiously changing and the screen was fluxuating so often, everytime it would draw a new screen (which was every few seconds) it would scale the entire screen smaller (including other screens that were different emotions). I'm not sure I'll be able to use windowWidth, and windowHeight as I've tried a few different things but it doesn't seem too animation friendly. I'll definitely try to research this topic a little bit more. 
+
+### Adding Sound
+
+I honestly didn't think I would be able get to this part as I really didn't think I would be able to combine the facial tracking code with the animations at all. 
+I downloaded a few different sounds (mostly nature sounds like thunder and rain).  
+
+#### A common mistake I made with the sounds was forgetting to folder it was in
+
+*INSERT IMAGE*
+
+I made this mistake a lot with the animations and wasn't sure why I didn't remember to do it this time, but really confused as to why none of the sounds were loading. At first I thought it was the file size until my friend pointed out my mistake.
+
+Karen mentioned it was probably best to use a mousePressed() function with sound, as then the viewers have the option to use sound or not (as it can be annoying especially if you don't know the source or can't mute it). 
+
+I'm currently experimenting with sound and managed to get the sounds to work, but only when you click on the screen of a particular emotion (meaning you have to continously click the screen perfectly timed) which is fairly tiring. The sound also carries on when you switch emotions, so I'll have to research p5.js sound a little bit more. 
+
+#### This is my current code for the sound portion:
+
+*INSERT IMAGE*
+
+
+
 
 
 
