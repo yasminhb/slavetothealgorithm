@@ -3,7 +3,7 @@
 ## Welcome to my Showcase Folder!
 
 #### Project Title: 
-The Garden of Pathetic Fallacy
+*The Garden of Pathetic Fallacy*
 
 #### Link to Project website:
 
