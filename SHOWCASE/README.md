@@ -5,6 +5,12 @@
 #### Project Title: 
 *The Garden of Pathetic Fallacy*
 
+#### Hero Image:
+<img src=>
+
+#### Project Gif:
+<img src=>
+
 #### Link to Project website:
 
 (Make sure you are using chrome, only works on computers not phones as of now)
