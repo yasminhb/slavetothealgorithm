@@ -6,10 +6,10 @@
 *The Garden of Pathetic Fallacy*
 
 #### Hero Image:
-<img src=>
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/SHOWCASE/Hero%20Image_Yasmin%20HB.jpg>
 
 #### Project Gif:
-<img src=>
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/SHOWCASE/Project%20Gif.gif>
 
 #### Link to Project website:
 
