@@ -44,7 +44,35 @@ This is what loading the background images looks like in the code:
 
 #### Animations
 
+In order to create the animations, I used the p5.play library. I was able to create the animations by ordering images (frames of my drawn animation) and using the animation() function. 
+
+Similar to the background images, I used the if{} and else{} function in order to connect these animations with the users emotion (as well as the background).
+
+You can see how I loaded and created the animations in the code below:
+
+*INSERT IMAGE OF CODE*
 
 
 ### The Working Sketch
+
+By combining all of the functions and inputs from above, I managed to create a working sketch: *the garden of pathetic fallacy!*
+
+Once all of these functions are connected, the sketch works sort of like this:
+
+*INSERT GIF BELOW OF WORKING SKETCH*
+
+For reference, I have included my photobooth application on the side so you can see my face changing (and how the sketch works). 
+
+#### *So what does the user experience exactly?*
+
+The sketch first loads the landing page which gives them instructions and briefly explains the sketch, as well as how it works.
+
+After clicking *ENTER* the user then enters the sketch and can interact with the garden by changing their facial expression. 
+
+I've found it's really fun to try and find all seven of the garden states (as some emotions are harder to imitate than others). 
+
+It's definitely a lot of fun and feel like it would especially be fun for children to play around with. 
+
+Perhaps this is something I could expand upon?
+
 
