@@ -16,7 +16,7 @@ I'll continue my research, but I'm not sure I'll be able to work it out by next 
 
 #### This is what the interaction looks like (unscaled) with the backgrounds and animations together:
 
-*INSERT GIF*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2011/ezgif-4-0422719609bf.gif>
 
 ### Creating a landing page
 
@@ -24,7 +24,7 @@ After I finally uploaded the sketch to a working github link and sent it to my f
 
 #### This is what I have for the landing page:
 
-*INCLUDE IMAGE*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2011/landingpage.jpg>
 
 I also decided to change the sound function of my sketch slightly. The emotions and animations fluctuate so often that it's difficult to continuously press the mouse each time. This may also get fairly tedius to a user, causing them to abandon this interaction altogether.  
 
