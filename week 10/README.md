@@ -4,7 +4,7 @@ Last week I had drawn up all of my backgrounds and animations. This weeks challe
 
 #### This is what the animations and backgrounds look like when put together:
 
-*INSERT GIFS*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2010/ezgif-4-751ea15dd6cf.gif>
 
 ### UPON FURTHER INSPECTION I DISCOVERED SOMETHING...
 
@@ -16,23 +16,38 @@ Perhaps because this is one of the harder emotions to recreate? I had never seen
 
 I googled 'fearful expression' and this is what came up:
 
-*INSERT IMAGE*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2010/fearful-face.jpg>
 
 Image via: https://gettingstronger.org/2012/12/conquer-your-fears/fearful-face/
 
 So I gave it a go and...
 
-*INSERT IMAGE*
-
 IT WORKED?? Apparently this is what you look like when you're scared and I've almost mastered this expression.
-The hands covering the chin is the key.
+
+#### TIP: *The hands covering the chin is the key.*
 
 What does this mean? It means I had to quickly draw a new background and complimentary animations. 
 Thankfully I had a quick sketch from a few weeks back for what I would have done if I had 'fearful' as one of the emotions and ran with that. 
 
 #### This is what I came up with:
 
-*INSERT IMAGE*
+*The background:*
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2010/fearsky.jpg>
+
+I've found that night time is the most scary state of any enviroment, because people aren't afraid of the dark, they're afraid of the unknown. 
+
+*Added animation:*
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2010/r20.png>
+
+I thought adding a rainbow would eliminate the scary sense that this background had, it also contrasts really nicely and adds a nice pop of colour.
+
+*For the flowers...*
+
+I decided to use a similar flower animation that I used for the sad emotion, but reverse it. 
+
+This way it looks like a flower is *hiding*, most likely from being scared. 
 
 ### WORKING ON THE CODE
 
