@@ -18,6 +18,8 @@ I googled 'fearful expression' and this is what came up:
 
 *INSERT IMAGE*
 
+Image via: https://gettingstronger.org/2012/12/conquer-your-fears/fearful-face/
+
 So I gave it a go and...
 
 *INSERT IMAGE*
