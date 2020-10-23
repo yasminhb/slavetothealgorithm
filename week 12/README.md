@@ -28,7 +28,7 @@ Here I was able to define all of the emotions as numbers, meaning I could take t
 
 This can also be seen in my console (screen shot taken from a few weeks ago and is no longer available in the current console):
 
-*INSERT IMAGE*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2012/Screen%20Shot%202020-10-23%20at%207.30.36%20pm.png>
 
 If no face is detected, this will show in the console (updated):
 
