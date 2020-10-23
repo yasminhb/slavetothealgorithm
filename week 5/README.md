@@ -32,7 +32,7 @@ I came across this really cool installation that was presented by one of the gue
 
 The project was called SONOS Ray of Sound by Super Nature Design (2018) and looked something like this:
 
-*INSERT PHOTO*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%205/Screen%20Shot%202020-10-23%20at%206.59.09%20pm.png>
 
 You can view it here: https://vimeo.com/264564942
 
