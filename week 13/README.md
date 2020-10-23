@@ -16,13 +16,11 @@ I realised that code is essentially another language. When I'm hard on myself ab
 Would I learn french and spanish in two months, and then fly to that country and expect to be fluent? Of course not. I should be really proud of where I've come this semester. I also really want to explore more with non digitla algorithmic design (such as creating sculptures based off of a digital algorithm).
 
 
-
-
 ### Research I've found since
 
 I saw this particular installation by Miguel Chevalier called Power Flowers (2017, Shanghai, and really loved how beautiful it was. 
 
-<img src=
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2013/619917955_640.jpg>
 
 Image via:https://vimeo.com/channels/voxelsproductions/205205655
 
