@@ -26,7 +26,7 @@ In the next coming weeks I'll try to narrow my idea down further, because it's q
 With everything going on and the limited accessibility to things that I could normally include for this project, I'm trying to think realistically about how I could approach this idea. 
 
 
-#### In terms of research...
+### In terms of research...
 
 I came across this really cool installation that was presented by one of the guests for our capstone Wednesday lecture. I really liked the idea of someone being able to sit inside this light cube and completely be immersed by the project. The experience of sitting in the cube and reacting to the sensory sounds and light projections was a major part of this particular project, as it creates an entirely effect when a user immerses themselves in the design this way. 
 
