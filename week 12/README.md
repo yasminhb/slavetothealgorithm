@@ -12,10 +12,8 @@ yasminhb.github.io
 
 A quick run down and summary of my code (I cleaned it up a LOT):
 
-*INSERT IMAGE OF FACIAL TRACKING*
-
-This code was entirely created by Web Dev Simplified via:
-*INSERT LINK*
+The facial tracking and emotion detection code was entirely created by Web Dev Simplified via:
+https://github.com/WebDevSimplified/Face-Detection-JavaScript
 
 It uses the face.api library, and was slightly remixed by me in order to fit my particular idea.
 
@@ -24,7 +22,7 @@ It uses the face.api library, and was slightly remixed by me in order to fit my 
 Emotion detection is included as part of the code by Web Dev Simplified (ADD NAME OF GUY), however, I created an array using objects and values in order to gather information and use it as an input.
 
 This can be seen here:
-*INSERT IMAGE*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2012/Screen%20Shot%202020-10-23%20at%208.12.50%20pm.png>
 
 Here I was able to define all of the emotions as numbers, meaning I could take the largest data set and connect it with my next function.
 
@@ -32,15 +30,19 @@ This can also be seen in my console (screen shot taken from a few weeks ago and 
 
 *INSERT IMAGE*
 
+If no face is detected, this will show in the console (updated):
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2012/Screen%20Shot%202020-10-23%20at%208.19.40%20pm.png>
+
 #### Background Images
 
 As I hand drew all of the images, this part of the code was actually quite easy. I loaded all of the images in and then used the if{} function in order to be selective with what is shown and drawn to the screen (depending on the emotion shown by the user).
 
-This is what loading the background images looks like in the code:
+This is what loading the background images with the animations looks like in the code:
 
-*INSERT IMAGE OF LOADING*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2012/Screen%20Shot%202020-10-23%20at%208.21.21%20pm.png>
 
-*INSERT IMAGE OF IF BACKGROUND = HAPPY*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2012/Screen%20Shot%202020-10-23%20at%208.21.37%20pm.png>
 
 #### Animations
 
@@ -50,7 +52,19 @@ Similar to the background images, I used the if{} and else{} function in order t
 
 You can see how I loaded and created the animations in the code below:
 
-*INSERT IMAGE OF CODE*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2012/Screen%20Shot%202020-10-23%20at%208.21.15%20pm.png>
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2012/Screen%20Shot%202020-10-23%20at%208.22.38%20pm.png>
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2012/Screen%20Shot%202020-10-23%20at%208.22.58%20pm.png>
+
+### Sound
+
+The sound is an optional function and works by using the mousePressed() function. Similar to the animations, if the user is showing a certain facial expression the corresponding sound will trigger (on mousePressed). The sound can also be stopped prematurely by switching emotions.
+
+This is what the code looks like:
+
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2012/Screen%20Shot%202020-10-23%20at%208.22.00%20pm.png>
 
 
 ### The Working Sketch
@@ -59,7 +73,7 @@ By combining all of the functions and inputs from above, I managed to create a w
 
 Once all of these functions are connected, the sketch works sort of like this:
 
-*INSERT GIF BELOW OF WORKING SKETCH*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2012/YHB%20Project%20Gif.gif>
 
 For reference, I have included my photobooth application on the side so you can see my face changing (and how the sketch works). 
 
