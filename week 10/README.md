@@ -55,20 +55,20 @@ I knew combining the two .js files would be super tricky, so I looked a little c
 
 I managed to create values like this:
 
-*INSERT IMAGE*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2010/Screen%20Shot%202020-10-23%20at%207.25.35%20pm.png>
 
 When I looked at the console I realised that the expressions data came out as numbers, with the highest number being the emotion that was detected and displayed on the screen. I then realised that I had to somehow tell the code to take the biggest number from the results and use the biggest number as an input for the next function (rather than taking all data and displaying multiple unwanted images on screen). Karen suggested I look into the sort() function. The sort() function kind of confused me but I realised it was basically just creating an array[] of objects and so I did some further research. 
 
 #### By creating values and researching arrays and objects, I managed to come up with this in the console:
 
-*INSERT IMAGE*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2010/Screen%20Shot%202020-10-23%20at%207.30.36%20pm.png>
 
 Minh and I got down to business and starting researching 'if' and 'else' functions. 
 We spent HOURS trying to get our 'if' and 'else' functions to work but it just wouldn't! We also didn't know why it wasn't working as we had seemingly done everything right. 
 
 #### This is what we came up with:
 
-*INSERT IMAGE*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2010/Screen%20Shot%202020-10-23%20at%207.31.13%20pm.png>
 
 As a test, I tried to make the word 'happy' appear in the console, otherwise it would say 'not happy'. 
 
@@ -117,7 +117,7 @@ I'm currently experimenting with sound and managed to get the sounds to work, bu
 
 #### This is my current code for the sound portion:
 
-*INSERT IMAGE*
+<img src=https://github.com/yasminhb/slavetothealgorithm/blob/master/week%2010/Screen%20Shot%202020-10-23%20at%207.27.52%20pm.png>
 
 
 
